@@ -1,0 +1,1 @@
+My implementation of C String Library functions only using pointers
